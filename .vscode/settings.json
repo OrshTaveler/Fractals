@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/nikita/Downloads/commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-transform-4.0-beta1-sources.jar",
+        "/home/nikita/Downloads/commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-core-4.0-beta1.jar"
+    ]
+}
